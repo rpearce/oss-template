@@ -12,5 +12,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
   * `.gitignore`
   * `API.md`
   * `AUTHORS`
+  * `CODE_OF_CONDUCT.md`
   * `CONTRIBUTING.md`
   * `README.md`
