@@ -5,7 +5,7 @@
 1. [Clone](https://help.github.com/articles/cloning-a-repository/) your fork
 1. Add the upstream project (this one) as a git remote:
     ```
-    $ git remote add upstream git@github.com:rpearce/react-medium-image-zoom.git
+    $ git remote add upstream git@github.com:rpearce/oss-template.git
     $ git fetch upstream
     $ git rebase upstream/master
     ```
